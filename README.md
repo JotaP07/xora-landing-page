@@ -23,7 +23,7 @@ Before you begin, make sure you have Node.js and npm installed on your machine.
 1. Clone this repository:
 
    ```bash
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/JotaP07/xora-landing-page/)
+   git clone https://github.com/JotaP07/xora-landing-page/
    cd xora-landing-page
    ```
 
