@@ -23,8 +23,8 @@ Before you begin, make sure you have Node.js and npm installed on your machine.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone [https://github.com/your-username/your-repository.git](https://github.com/JotaP07/xora-landing-page/)
+   cd xora-landing-page
    ```
 
 2. Install the project dependencies. **Make sure to include the `--legacy-peer-deps` flag**, as `react-slideshow` is not yet compatible with React 18:
@@ -38,15 +38,10 @@ Before you begin, make sure you have Node.js and npm installed on your machine.
 To run the application, use the following command:
 
 ```bash
-npm start
+npm run dev
 ```
 
-This will start the development server, and you can access the application at `http://localhost:3000`.
-
-## Project Structure
-
-- `src/`: Contains the source code files of the application.
-- `public/`: Contains public files such as `index.html`.
+This will start the development server, and you can access the application at `http://localhost:<some-port>`.
 
 ## Contribution
 
