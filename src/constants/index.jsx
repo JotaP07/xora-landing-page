@@ -404,26 +404,26 @@ export const links = [
 export const socials = [
   {
     id: "0",
-    title: "x",
-    icon: "/images/socials/x.svg",
-    url: "#",
-  },
-  {
-    id: "1",
-    title: "Threads",
-    icon: "/images/socials/threads.svg",
+    title: "Github",
+    icon: "/images/socials/github.svg",
     url: "#",
   },
   {
     id: "2",
     title: "Instagram",
     icon: "/images/socials/instagram.svg",
-    url: "#",
+    url: "https://www.instagram.com/joao.canhete/",
   },
   {
     id: "3",
-    title: "Discord",
-    icon: "/images/socials/discord.svg",
-    url: "#",
+    title: "x",
+    icon: "/images/socials/x.svg",
+    url: "https://x.com/JpDev_",
+  },
+  {
+    id: "4",
+    title: "Threads",
+    icon: "/images/socials/threads.svg",
+    url: "https://www.threads.net/@joao.canhete?xmt=AQGzims4aE6rfXK0EIVEUM9LJbmmDvbkfTJG9PbsCy5JMZk",
   },
 ];

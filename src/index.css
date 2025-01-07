@@ -302,7 +302,7 @@
   }
 
   /*  END of Download*/
-  /*  START of Footer */
+  /*  START of Footer.jsx */
   .legal-after {
     @apply after:absolute after:-right-5 after:top-[calc(50%-1px)] after:h-0.5 after:w-0.5 after:rounded-half after:bg-p2 after:content-[''];
   }
@@ -311,5 +311,5 @@
     @apply flex size-10 items-center justify-center rounded-full border-2 border-s4/25 bg-s1/5 transition-all duration-500 hover:border-s4;
   }
 
-  /*  END of Footer*/
+  /*  END of Footer.jsx*/
 }
