@@ -1,7 +1,7 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/ukiGFmZ32YA?feature=shared" target="_blank">
-      <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
+    <a href="https://xora-landing-page-v1.netlify.app/" target="_blank">
+      <img src="https://github.com/JotaP07/xora-landing-page/blob/master/home-page-img.png" width="80%" alt="Project Banner">
     </a>
   <br />
 </div>
