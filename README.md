@@ -11,6 +11,9 @@
 
 This is a landing page project for an AI video editor, developed using React and Tailwind CSS. The design was inspired by the GitHub repository and YouTube tutorial by [Adrian Hajdin](https://github.com/adrianhajdin).
 
+## Project Objective
+Enhance my front-end development skills by deepening my understanding of React Hooks and improving my proficiency in Tailwind CSS.
+
 ## Prerequisites
 
 Before you begin, make sure you have Node.js and npm installed on your machine.
@@ -48,4 +51,10 @@ This will start the development server, and you can access the application at `h
 ## Contribution
 
 Feel free to contribute by improving or fixing issues in the project. Just create a fork of this repository and submit a pull request.
+
+## Additional Resources I Made
+- Some padding and margin fixes, still missing some improvements
+- minimal change in header size and transition to Nav - Mobile 
+- Change in the size of some icons
+- Still missing some responsiveness adjustments
 
